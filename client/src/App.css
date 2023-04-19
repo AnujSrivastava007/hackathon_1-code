@@ -1,0 +1,31 @@
+:root {
+    --dark-blue: 212, 235, 242;
+    --light-blue: 232, 244, 248;
+  }
+
+body > * {
+    background-color: rgb(var(--light-blue));
+}
+
+html {
+    background-color: rgb(var(--light-blue));
+}
+
+.color-nav {
+    background-color: rgb(var(--dark-blue));
+}
+
+#transition-block > * {
+	animation: transitionIn 0.75s;
+}
+
+@keyframes transitionIn {
+    from {
+      opacity: 0;
+      transform: rotateY(-10deg);
+    }
+    to {
+      opacity: 1;
+      transform: rotateY(0deg);
+    }
+  }
