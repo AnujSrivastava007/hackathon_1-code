@@ -1,8 +1,8 @@
 ﻿# Bite Share
 
-BiteShare is a site designed to combat the large amount of food disposed of each day despite being perfectly edible. Hunger is a problem faced by several counties in California, but this website would like to combat it in Davis specifically.
+BiteShare is a site designed to combat the large amount of food disposed of each day despite being perfectly edible. Hunger is a problem faced by several states in India.
 
-This project was architected by [Anish Kondepudi](https://github.com/anish-kondepudi), [Saipranav Kotamreddy](https://https://github.com/Saipranav-Kotamreddy), and [Rachit Sharma](https://github.com/RachitSharma2001).
+This project was architected by Anuj Srivastava Prashant Shukla Sagar Kasana.
 
 __Below are the languages used in creating this Web App:__
 
@@ -17,18 +17,15 @@ __Below are the modules/frameworks/libraries/tools used in creating this Web App
 ```bash
 1. React.js
 2. Redux
-3. React-Native
-4. React-Bootstrap
-3. Google Cloud
+3. React-Bootstrap
 4. Google Maps API
-4. Twilio
-6. Node.js
-7. MongoDB
-8. Mongoose
-9. Express
-10. Axios
-11. Cors
-12. Github
+5. Node.js
+6. MongoDB
+7. Mongoose
+8. Express
+9. Axios
+10. Cors
+11. Github
 ```
 
 __Shown below are some images of the Bite Share Web Application:__
@@ -38,8 +35,7 @@ __Shown below are some images of the Bite Share Web Application:__
 ![Donate Food Page](https://media.discordapp.net/attachments/947189178532233239/965286767756464178/Screen_Shot_2022-04-17_at_9.24.49_AM.png?width=904&height=468)
 ![List of Foods Available](https://cdn.discordapp.com/attachments/947189178532233239/965287462517743626/Screen_Shot_2022-04-17_at_9.21.01_AM-min.png)
 ![Map of Foods Available](https://cdn.discordapp.com/attachments/947189178532233239/965286313077129306/Screen_Shot_2022-04-17_at_9.22.21_AM.png)
-Video Demonstration:
-[![Video Demonstration](http://img.youtube.com/vi/aQEfC6S7FmI/0.jpg)](http://www.youtube.com/watch?v=aQEfC6S7FmI "Hack Davis 2022- Bite Share")
+
 
 
 **Notes:**
